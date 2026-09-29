@@ -8,7 +8,7 @@ This repository is yours. Only you and the Timirtbet maintainers can see it.
 2. Write your answer in `solution.js` or `solution.go`.
 3. Commit and push to `main` (or open a pull request).
 4. Tests run automatically. You get a ✓ or ✗ on your commit, and a comment with what to fix on pull requests.
-5. When all tests pass, your solution goes to someone in your review circle on Timirtbet.
+5. When you have passed every challenge in a module, submit the module on Timirtbet. Someone in your review circle who finished it reviews your solutions.
 6. Read their review and rate it from 1 to 5 stars. Honest ratings help everyone get better reviews.
 
 ## Run the tests on your own computer
